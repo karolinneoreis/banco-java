@@ -56,3 +56,5 @@ Persistência de dados em arquivo ou banco de dados
 Integração com Spring Boot (API REST)
 Interface gráfica ou web
 Segurança com criptografia de senha
+
+ATT, Ana Caroline Reis
